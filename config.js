@@ -42,26 +42,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918270026275','916380260672'] //you can add multiple number
-global.ownername = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
-global.ytname = "YT: Turbo Mods" //ur yt chanel name
-global.socialm = "GitHub: TURBOHYPER" //ur github or insta name
-global.location = "India, TamilNadu, Coimbatore" //ur location
+global.owner = ['917373104400','918111910408'] //you can add multiple number
+global.ownername = "𝐓𝐎𝐗𝐈𝐂 𝐃𝐀𝐑𝐂𝐎"
+global.ytname = "YT: Darco Mods" //ur yt chanel name
+global.socialm = "GitHub: turbogaming876" //ur github or insta name
+global.location = "India, TamilNadu, Salem" //ur location
 
 //bot bombdy
 global.botname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫" //ur bot name
 global.websitex = "https://github.com/TURBOHYPER" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
 global.packname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫"
-global.author = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
+global.author = "𝐓𝐎𝐗𝐈𝐂 𝐃𝐀𝐑𝐂𝐎"
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['916380260672'] //ur owner number
-global.ownernummenu = ['916380260672'] //ur owner number in menu and all
-global.watermark = " 𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯" //ur watermark
+global.ownertag = ['917373104400'] //ur owner number
+global.ownernummenu = ['917373104400'] //ur owner number in menu and all
+global.watermark = " 𝐓𝐎𝐗𝐈𝐂 𝐃𝐀𝐑𝐂𝐎" //ur watermark
 global.botscript = "https://github.com/TURBOHYPER/Toxic-Alexa_V3"
-global.linkz1 = "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
-global.linkz2 = "https://chat.whatsapp.com/GsgzyBU8Vld0YCNnFrBAQt"
+global.linkz1 = "wa.me/917373104400"
+global.linkz2 = "wa.me/918111910408"
 
 //Bot theme media
 global.thum = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur thumb pic
